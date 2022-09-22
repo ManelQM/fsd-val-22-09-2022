@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
 
     background-color: greenyellow;
     text-align: center;
@@ -43,3 +44,7 @@ background-color: blueviolet;
     align-items: center;
 }
 
+=======
+    background-color: aqua;
+}
+>>>>>>> a75f2c568a031c65aaabe4465453fdfe17d8f592
