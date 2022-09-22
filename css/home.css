@@ -85,14 +85,9 @@ background-color: brown;
 #buscadorplace {
     background-color: blue;
     width: 50vw;
-    height: 9vh;
+    height: 7vh;
 }
-#buscarcongoogle {
 
-    background-color: pink;
-    width: 50vw;
-    height: 6vh;
-}
 
 #idioma {
 
@@ -149,10 +144,20 @@ margin-right: 5px;
     
 background-color: rgb(28, 98, 217);
 width: 9vw;
-height: 6vh;
-display: flex; justify-content: center;
-margin: 10px;
+height: 5vh;
+display: flex; justify-content: center; align-items: center;
+margin: 5px;
 margin-right: 5px;
+border-radius: 5%;
 
+}
+
+#buscarcongoogle {
+background-color: pink;
+ width: 50vw;
+ height: 6vh;
+ display: flex;justify-content: flex-start;
+ justify-content: center;
+ justify-content: space-around;
 }
 
