@@ -15,7 +15,7 @@ body {
 #main {
 
     height: 70vh;
-    background-color: rgb(42, 165, 58);
+    background-color: white;
     display: flex;
     justify-content: center;
 }
@@ -91,7 +91,7 @@ background-color: brown;
 
 #idioma {
 
-background-color: rgb(43, 226, 58);
+background-color:white;
 width: 50vw;
 height: 35vh;
 }
@@ -178,4 +178,17 @@ background-color: white;
     height: 12vh;
     
     padding-left: 430px;
+}
+
+#ofrecido {
+
+height: 55vh;
+width:40vw;
+display: flex;justify-content: flex-start;
+
+}
+
+#footer-lik {
+display: flex; align-items: flex-start;
+
 }
