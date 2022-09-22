@@ -1,0 +1,149 @@
+body {
+
+    background-color: aqua;
+    margin: 0 ;
+}
+
+
+
+#head {
+
+    background-color: red;
+    height: 10vh;
+    display: flex;
+}
+#main {
+
+    height: 70vh;
+    background-color: rgb(42, 165, 58);
+    display: flex;
+    justify-content: center;
+}
+
+#footer {
+      
+    background-color: blueviolet;
+    height: 20vh;
+}
+
+.head-c {
+
+    width: 50vw;
+    height: 10vh;
+}
+
+#head-izq {
+    display: flex; justify-content: flex-start;
+    background-color:white;
+}
+
+#head-der {
+    
+display: flex; justify-content: flex-end;
+    background-color: white;
+}
+
+#main-info {
+
+background-color: orange;
+width: 50vw;
+height: 70vh;
+
+}
+#footer-link {
+
+    background-color: darkcyan;
+    display: flex;
+}
+
+#footer-link-izq {
+background-color: azure;
+    width: 30vw;
+    text-align: left;
+}
+
+#footer-link-mid {
+background-color: red ;
+   width: 40vw;
+   text-align: center;
+}
+
+#footer-link-der {
+background-color: brown;
+    width: 30vw;
+    text-align: right;
+}
+
+#googlelogo {
+    
+    background-color: white;
+    width: 50vw;
+    height: 20vh;
+    text-align: center;
+}
+
+#buscadorplace {
+    background-color: blue;
+    width: 50vw;
+    height: 9vh;
+}
+#buscarcongoogle {
+
+    background-color: pink;
+    width: 50vw;
+    height: 6vh;
+}
+
+#idioma {
+
+background-color: rgb(43, 226, 58);
+width: 50vw;
+height: 35vh;
+}
+
+#sobregoogle {
+
+    margin: 10px;
+    margin-right: 5px;
+    background-color:white;
+}
+#tienda {
+margin: 10px;
+
+background-color: white;
+
+}
+
+div img {
+width: 20vw;
+
+}
+
+#buscadorplace img {
+
+    width: 50vw;
+    height: 50vh;
+}
+
+#gmail {
+
+background-color:white;
+width: 9vw;
+height: 6vh;
+display: flex; justify-content: flex-end;
+margin: 10px;
+margin-right: 5px;
+}
+
+#imagenes {
+
+background-color: white;
+width: 9vw;
+height: 6vh;
+display: flex; justify-content: center;
+margin: 10px;
+margin-right: 5px;
+}
+
+#
+
